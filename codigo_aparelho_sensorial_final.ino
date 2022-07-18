@@ -1,3 +1,8 @@
+//Codigo Aparelho sensorial foi desenvolvido para a disciplina de Projetos de Engenharia 1
+//Curso de Engenharia da Computação da universidade Federal do Pará
+//Participantes Aleandra Ximenes, Artemisia Souza ,Ellen Gomes, Ilard Lamarão e Vivian Santos
+
+
 #include "Ultrasonic.h"//BIBLIOTECA PARA O SENSOR ULTRASSÔNICO
 #define N 300
 
